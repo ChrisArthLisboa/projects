@@ -6,19 +6,19 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>Testando</title>
+	<title>PHP Entry</title>
 	<link rel="stylesheet" href="style.css">
 </head>
 <body>
-	<h1>O lugar dos testes de verdade</h1>
+	<h1>Where the things happens</h1>
 
 	<div id="input">
-		<input type="text" name="$Var" placeholder="Entrada">
+		<input type="text" name="$Var" placeholder="input">
 	</div>
 
 	<div id="php">
 		<?php 
-			include ('codes/testes.php');
+			include ('file.php');
 		?>
 	</div>
 </body>
