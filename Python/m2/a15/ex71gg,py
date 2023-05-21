@@ -1,0 +1,29 @@
+from math import trunc
+
+print("=="*16)
+print("Banco CEV".center(32))
+print("=="*16)
+
+v = int(input("Qual o valor a ser sacado: "))
+
+ced = 50
+c = 0
+while True:
+    if v >= ced:
+        v -= ced
+        c += 1
+    else:
+        if c > 0:
+            print(f"Total de {c} cédulas de R${ced}")
+        if ced == 50:
+            ced = 20
+        elif ced == 20:
+            ced = 10
+        elif ced == 10:
+            ced = 1
+        c = 0
+        if v == 0:
+            break
+        
+
+print("=="*16)
