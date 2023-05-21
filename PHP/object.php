@@ -8,7 +8,7 @@
 
 	$user = new usuario;
 	$user->Nome = 'Lisboa';
-	$user->Email = strtolower("Arthur.dalmolin.lisboa@gmail.com");
+	$user->Email = strtolower("EMAIL@GMAIL.COM");
 	$user->Senha = "12354";
 
 	foreach ($user as $key => $value) {
