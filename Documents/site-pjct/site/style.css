@@ -1,0 +1,116 @@
+
+html {
+	min-height: 100%;
+}
+
+body {
+	background-image: linear-gradient(215deg,#061161 25%,#780206);
+	font-family: monospace;
+	background-repeat: no-repeat;
+}
+
+h1,p, label, h2 {
+	color: whitesmoke;
+}
+
+h1, h2 {
+	text-align: center;
+}
+
+h2 {
+	font-size: 1.7em;
+}
+
+p#teste {
+	background-color: #332E31;
+	width: 10em;
+	font-size: 2em;
+}
+
+input {
+	color: whitesmoke;
+	background-color: rgb(30, 30, 30) ;
+	border-color: #1C2733;
+	border-radius: 17px;
+	text-align: center;
+	padding: 0.6em;
+	transition: 0.4s;
+}
+
+input:focus {
+	scale: 1.02;
+	background-color: rgb(40, 40, 40);
+}
+
+input:focus::placeholder {
+	opacity: 0;
+}
+
+input::placeholder {
+	color: whitesmoke;
+	opacity: 0.4;
+	text-align: center;
+	font-size: 1.05em;
+}
+
+p {
+	scale: 1.03;
+	font-size: 1.09em;
+
+}
+
+div.entrada {
+	padding-bottom: 2em;
+	width: 17em;
+	margin: auto;
+	display: flex;
+	flex-direction: column;
+	text-align: center;
+
+
+}
+
+.entrada>label {
+	padding-right: 1em ;
+	text-align: left;
+}
+
+input[type="submit"] {
+	padding: 0.5em 2.5em 0.5em 2.5em;
+	border-radius: 6em;
+	font-size: 1.5em;
+	color: whitesmoke;
+	background-color: rgba(30, 30, 30,0.9);
+	transition: 0.5s;
+	box-shadow: 0em -0.5em 1.5em rgba(0, 0, 0, 0.3);
+	margin-top: 1.3em;
+}
+
+input[type="submit"]:hover {
+	padding-top: 1em;
+	padding-bottom: 1em;
+	box-shadow: 0em 1em 1.5em rgba(0, 0, 0, 0.3);
+	background-color: rgb(35, 35, 35);
+}
+
+input[type="submit"]:focus {
+	transform: scale(1.1); 
+}
+
+::-webkit-scrollbar {
+	width: 9px;
+	background-color: currentColor;
+
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+	background-color: rgba(50,50,50);
+	border-radius: 100px;
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+	background-color: rgb(30,30,30);
+	border-radius: 100px;
+}
