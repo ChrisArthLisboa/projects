@@ -1,0 +1,95 @@
+
+body {
+
+	background-color: rgba(40,40,40,1);
+	background-size: cover;
+	background-position: center;
+	color: whitesmoke;
+}
+
+h1 {
+	text-align: center;
+	margin-top: 1.2em;
+	font-family: sans-serif;
+}
+
+div#php {
+	scale: 1.5;
+
+	transform: translate(0, 6em);
+
+	margin-left: auto; 
+	margin-right: auto; 
+	margin-bottom: 2em;
+
+	width: 50em;
+	height: fit-content;
+
+	padding: 1em;
+	padding-bottom: 2.5em;
+	padding-top: 2.5em;
+
+	border-radius: 30px;
+	border-color: rgba(135, 206, 235,0.7);
+	border-style: solid;
+	box-shadow: 0em 0em 2em rgba(0, 0, 0, 1.0);
+
+	text-align: center;
+
+}
+
+div {
+	background-color: rgb(40, 40, 40);
+}
+
+div#input {
+	transform: translate(0, 3em);
+
+	margin-left: auto; 
+	margin-right: auto; 
+
+	width: 20em;
+	height: fit-content;
+
+	padding: 1em;
+	padding-bottom: 2em;
+	padding-top: 2em;
+
+	border-radius: 10px;
+	border-color: rgba(135, 206, 235,0.7);
+	border-style: solid;
+	box-shadow: 0em 0em 2em rgba(0, 0, 0, 0.9);
+
+	text-align: center;
+	
+}
+
+input {
+	background-color: rgba(20, 20, 20, 0.6);
+
+	border-radius: 10px;
+	border-color: rgba(50, 50, 50, 1.0);
+
+	text-align: center;
+	color: whitesmoke;
+
+	transition: 0.4s;
+}
+
+input::placeholder {
+	color: whitesmoke;
+	opacity: 0.3;
+}
+
+input:focus {
+	scale: 1.2;
+	background-color: rgba(20, 20, 20, 1);
+}
+
+input:focus::placeholder {
+	opacity: 0;
+}
+
+footer {
+	background-color: rgb(60, 60, 60);
+}
