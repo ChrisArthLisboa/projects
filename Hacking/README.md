@@ -9,3 +9,4 @@ Conhecimentos necessarios:
   - A solid foundation in information security principles.
 
 Tempo: Vai demorar.
+https://www.eccouncil.org/cybersecurity-exchange/ethical-hacking/ethical-hacking-understanding-basics/
