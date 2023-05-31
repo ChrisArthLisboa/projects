@@ -1,6 +1,6 @@
-## basico
+## basic
 
-Conhecimentos necessarios:
+Needed:
   - Knowledge of coding in relevant programming languages
   - An understanding of computer networks, both wired and wireless
   - Basic hardware knowledge
@@ -8,5 +8,6 @@ Conhecimentos necessarios:
   - Database proficiency.
   - A solid foundation in information security principles.
 
-Tempo: Vai demorar.
+TIme: Undefined.
+
 https://www.eccouncil.org/cybersecurity-exchange/ethical-hacking/ethical-hacking-understanding-basics/
