@@ -10,4 +10,4 @@ Needed:
 
 TIme: Undefined.
 
-https://www.eccouncil.org/cybersecurity-exchange/ethical-hacking/ethical-hacking-understanding-basics/
+<a href="https://www.eccouncil.org/cybersecurity-exchange/ethical-hacking/ethical-hacking-understanding-basics/" target="_blank">search site</a>
