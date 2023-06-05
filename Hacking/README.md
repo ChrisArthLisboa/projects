@@ -3,7 +3,7 @@
 Needed:
   - Knowledge of coding in relevant programming languages ✅
   - An understanding of computer networks, both wired and wireless.
-    <a href="https://www.indeed.com/career-advice/career-development/networking-basics" target="_blank">networks basics</a> (mega basics)
+    - <a href="https://www.indeed.com/career-advice/career-development/networking-basics" target="_blank">networks basics</a> (mega basics)
   - Basic hardware knowledge 
   - Creative and analytical thinking abilities ✅
   - Database proficiency. ✅
