@@ -37,7 +37,7 @@
 				<h2>Senha</h2>
 				<input id=senha type="password" placeholder="Insira sua senha" name="senha" required/>
 
-				<input id="confirme" type="password" placeholder="Confirme sua senha" name="senha"  required/>
+				<input id="confirme" type="password" placeholder="Confirme sua senha" name="senha" required/>
 				<p id="warning" style="color: red;"></p>
 
 				<script type="text/javascript">
