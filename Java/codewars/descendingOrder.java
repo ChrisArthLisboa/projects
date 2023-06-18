@@ -11,6 +11,6 @@ public class descendingOrder {
         return Integer.valueOf(String.join("", anum));
     }
     public static void main(String[] args) {
-        System.out.println(ordDesc(43521));
+        System.out.println(ordDesc(12));
     }
 }
