@@ -5,8 +5,7 @@
 > Trying new languages.  
 
 ## IDEs/interpretador
-Para aqueles do CTISM que não querem procurar as suas IDEs na net
-
+---
 ### Interpretadores
 > [Python](https://www.python.org/downloads/)  
 > [JDK 20](https://www.oracle.com/br/java/technologies/downloads/)  
