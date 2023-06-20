@@ -5,7 +5,7 @@
 > Trying new languages.  
 
 ## IDEs/interpretador
----
+
 ### Interpretadores
 > [Python](https://www.python.org/downloads/)  
 > [JDK 20](https://www.oracle.com/br/java/technologies/downloads/)  
