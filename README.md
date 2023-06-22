@@ -4,9 +4,9 @@
 > My crazy ideas.  
 > Trying new languages.  
 
-## IDEs/interpretador
+## IDEs/Compilers
 
-### Interpretadores
+### Compilers
 > [Python](https://www.python.org/downloads/)  
 > [JDK 20](https://www.oracle.com/br/java/technologies/downloads/)  
 > [Node Js](https://nodejs.org/en/download)  
