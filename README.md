@@ -14,6 +14,6 @@
 ### IDEs
 > [VSCode](https://code.visualstudio.com/download)  
 > [NetBeans 18](https://netbeans.apache.org/download/nb18/)  
-> [IntelliJ](https://www.jetbrains.com/pt-br/idea/download/?section=windows)  
+> [IntelliJ](https://www.jetbrains.com/pt-br/idea/download/?section=windows) - Dont forget to download the Community edition if you don't have the license.  
 > [Pycharm](https://www.jetbrains.com/pt-br/pycharm/download/#section=windows)  
 > [Sublime](https://www.sublimetext.com/3)  
