@@ -6,7 +6,7 @@
 
 ## IDEs/Compilers
 
-### Compilers
+### Compilers/Bibliotecas
 > [Python](https://www.python.org/downloads/)  
 > [JDK 20](https://www.oracle.com/br/java/technologies/downloads/)  
 > [Node Js](https://nodejs.org/en/download)  
