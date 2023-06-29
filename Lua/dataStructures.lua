@@ -14,7 +14,6 @@ function ShTb(Array)
         Ela não retorna nada.
     ]]
 
-    local i = 1
     local str = ""
     for i=1, #Array do
         str = str .. Array[i] .. " "
@@ -33,11 +32,11 @@ print(("-----"):rep(6))
 print(#Array) -- Mostra quantos valores
 print(("-----"):rep(6))
 
-shtb(Array)
+ShTb(Array)
 print(("-----"):rep(6))
 
 table.remove(Array, 9) -- Remove a nona posição
-shtb(Array)
+ShTb(Array)
 print(("-----"):rep(6))
 
 
@@ -45,9 +44,9 @@ table.insert(Array, "4")
 --[[ Coloca um baguio novo na posição.
     (Tem que ser string pra ser do mesmo tipo que a array else o sort não funfa) 
     ]]
-shtb(Array)
+ShTb(Array)
 print(("-----"):rep(6))
 
 table.sort(Array)
-shtb(Array)
+ShTb(Array)
 print(("-----"):rep(6))
