@@ -1,4 +1,3 @@
-package codewars.fundamentos;
 
 public class ReversedStrings {
     public static String RevString(String str) {

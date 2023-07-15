@@ -1,4 +1,3 @@
-package codewars.fundamentos;
 
 public class Greed {
     public static boolean betterThanAverage(int[] classPoints, int yourPoints) {
