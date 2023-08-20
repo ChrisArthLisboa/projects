@@ -1,0 +1,28 @@
+
+body {
+    background-color: #292a2e;
+    color: aliceblue;
+    margin: 0;
+}
+
+header {
+    background-color: #0000008a;
+    margin: 0em;
+    padding: 0.5em;
+    height: 100%;
+}
+
+
+div {
+    margin-left: 0.4rem;
+    margin-right: 0.4rem;
+}
+
+#ind {
+    position: fixed;
+    top: 1em;
+    right: 0;
+    width: fit-content;
+    margin-right: 0.5em;
+    margin-top: 0.5em;
+}

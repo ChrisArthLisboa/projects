@@ -22,7 +22,7 @@ elif faz == 2:
     write("cmd")
     sleep(0.5)
     press('Enter')
-    sleep(1)
+    sleep(3)
     write(f"pip3 uninstall {lib}")
     press('Enter')
 else:
@@ -31,6 +31,6 @@ else:
     write("cmd")
     sleep(0.5)
     press('Enter')
-    sleep(1)
-    write(f"python.exe -m pip install --upgrade pip")
+    sleep(3)
+    write("python.exe -m pip3 install --upgrade pip3")
     press('Enter')
